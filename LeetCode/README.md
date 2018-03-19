@@ -77,7 +77,7 @@ Fibonacci(n) = (((1 + sqrt(5)) / 2) ^ (n + 1) - ((1 - sqrt(5)) / 2) ^ (n + 1)) /
 ***
 
 
-
+\* 代表教程需要会员
 ***
 # LeetCode 题解 #
 ## GitHub地址：<https://github.com/fx2003/OI/tree/master/LeetCode> ##
